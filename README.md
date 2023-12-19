@@ -25,17 +25,17 @@ Link the data stored in the database with the original csv file
 
 SSIS Data Flow 
 
-  -  ![Data Flow overview](https://github.com/Abdullah28-gheyad/Telecom-SSIS/blob/master/Screenshot%20(55).png)
+  -  ![Data Flow overview](https://github.com/youssefAshraf99/Telecom-SSIS-master/blob/master/Screenshot%20(55).png)
 
 
 -- Before Running the ETL
 
 
-  -  ![Before Running overview](https://github.com/Abdullah28-gheyad/Telecom-SSIS/blob/master/Screenshot%20(54).png)
+  -  ![Before Running overview](https://github.com/youssefAshraf99/Telecom-SSIS-master/blob/master/Screenshot%20(54).png)
 
 
 
 -- After Running the ETL
 
 
-  -  ![After Running overview](https://github.com/Abdullah28-gheyad/Telecom-SSIS/blob/master/Screenshot%20(56).png)
+  -  ![After Running overview](https://github.com/youssefAshraf99/Telecom-SSIS-master/blob/master/Screenshot%20(56).png)
